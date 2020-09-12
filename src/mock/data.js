@@ -20,7 +20,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `I'm a final year Information Systems student at the National University of Singapore. 
-  I enjoy learning new technology and applying them through internship, school or personal projects. My interests currently lies in
+  I enjoy learning new technology and applying them through internship, school or personal projects. My interests currently lie in
   web development and the projects listed below are a testament to this.`,
   paragraphTwo: `Apart from development, I enjoy playing floorball, jamming to songs on my guitar, learning new languages and exploring new cultures.
                  I used to play for a floorball club with my friends and did occasional performances on my guitar for school events.`,
